@@ -16,6 +16,9 @@ assignees: guchio3
 ## 次に読みたい論文
  - 
  
+## 感想
+
+
 ## 参照
  - [paper url]()
  - [code url if exists]()
