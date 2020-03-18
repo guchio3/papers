@@ -13,12 +13,15 @@ assignees: guchio3
 ## メモ
  - 
 
-## 次に読みたい論文
+
+## わかっていない点
  - 
+
  
 ## 感想
 
 
 ## 参照
  - [paper url]()
- - [code url if exists]()
+ - [code url]()
+ - [関連論文]()
